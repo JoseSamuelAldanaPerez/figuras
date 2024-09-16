@@ -13,7 +13,7 @@ class Circulo():
 circulo = Circulo(5)
 
 # Imprimir el área del círculo
-print("Área del círculo con radio {} = {:.2f} U²".format(
+print("Área del círculo con radio {} = {:.2f} U^2".format(
     circulo.radio,
     circulo.calcularArea()
 ))
