@@ -13,4 +13,5 @@ class Trapecio:
         trapecio.base,
         trapecio.base2,
         trapecio.altura,
+        trapecio.calcularArea()
     ))
