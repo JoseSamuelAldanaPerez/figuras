@@ -6,7 +6,7 @@ class Trapecio:
             self.altura = altura
     
         def calcularArea(self):
-            return  (self.base + self.base2 * self.altura) / 2
+            return  ((self.base + self.base2) * self.altura) / 2
 
     trapecio = Trapecio(3,4,5)
     print("Área del trapecio con base uno {} , trapecio con base2 {} y altura {} = {} U^2".format(
